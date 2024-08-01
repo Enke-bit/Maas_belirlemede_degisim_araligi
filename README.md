@@ -35,7 +35,7 @@ Maaş değişim aralığının profesyonelliğin bir göstergesi olup olmadığ�
 
 ## Kullanım
 
-Bu çalışmayı incelemek ve sonuçları daha iyi anlamak için [bu bağlantıya](https://github.com/username/repository) göz atabilirsiniz. İlgili veriler ve analizler detaylı bir şekilde burada sunulmuştur.
+Bu çalışmayı incelemek ve sonuçları daha iyi anlamak için göz atabilirsiniz. İlgili veriler ve analizler detaylı bir şekilde burada sunulmuştur.
 
 ## Yazarlar
 
